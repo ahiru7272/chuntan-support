@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T11:18:27Z",
-  "workCount": 10,
+  "updatedAt": "2026-11-13T22:32:21Z",
+  "workCount": 11,
   "works": [
     {
       "id": "a_tale_of_two_cities",
@@ -412,6 +412,47 @@
       "dataPath": "works/the_complete_works_of_william_shakespeare.json",
       "sha256": "eddccd390e85e9f0",
       "updatedAt": "2026-11-13T11:05:41Z"
+    },
+    {
+      "id": "the_count_of_monte_cristo",
+      "title": "The Count of Monte Cristo",
+      "author": "George EliotAlexandre Dumas",
+      "media": "book",
+      "totalTokens": 464042,
+      "matchedTokens": 440098,
+      "properNounTokens": 18913,
+      "outOfDbTokens": 5031,
+      "uniqueWordCount": 6734,
+      "bandCounts": [
+        967,
+        888,
+        793,
+        669,
+        560,
+        497,
+        408,
+        342,
+        295,
+        255,
+        184,
+        183,
+        129,
+        115,
+        89,
+        66,
+        44,
+        52,
+        41,
+        32,
+        33,
+        28,
+        25,
+        22,
+        17
+      ],
+      "dataPath": "works/the_count_of_monte_cristo.json",
+      "sha256": "89947b6c756b4325",
+      "updatedAt": "2026-11-13T22:23:48Z"
     }
   ]
 }
