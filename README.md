@@ -2,9 +2,9 @@
 
 **ちゅん単**は、25,000語（Level 1〜25）の語彙データベースをもとに、ベイズ推定による語彙力診断と洋書・映画・ドラマの多読事前学習ができる iOS 向け英単語アプリです。
 
-* **App Store**: [ちゅん単をダウンロード](https://www.google.com/search?q=https://apps.apple.com/jp/app/id6831177503)
+* **App Store**: [ちゅん単をダウンロード](https://www.google.com/search?q=APP_STORE_URL)
 * **公式 X（お問い合わせ・最新情報）**: [@ahiru_lab](https://x.com/ahiru_lab)
-* **プライバシーポリシー**: [privacy.html](https://www.google.com/search?q=https://ahiru7272.github.io/chuntan-support/privacy.html)
+* **プライバシーポリシー**: [プライバシーポリシーはこちら](https://www.google.com/search?q=./privacy.html)
 
 ---
 
