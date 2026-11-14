@@ -4,7 +4,7 @@
 
 * **App Store**: [ちゅん単をダウンロード](https://www.google.com/search?q=APP_STORE_URL)
 * **公式 X（お問い合わせ・最新情報）**: [@ahiru_lab](https://x.com/ahiru_lab)
-* **プライバシーポリシー**: [プライバシーポリシーはこちら](https://www.google.com/search?q=./privacy.html)
+* **プライバシーポリシー**: [プライバシーポリシーはこちら](https://ahiru7272.github.io/chuntan-support/privacy.html)
 
 ---
 
